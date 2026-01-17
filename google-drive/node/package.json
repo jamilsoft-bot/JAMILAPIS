@@ -1,0 +1,16 @@
+{
+  "name": "jamiapis-google-drive-node",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node demo/server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "googleapis": "^133.0.0",
+    "multer": "^1.4.5",
+    "dotenv": "^16.4.5"
+  }
+}
