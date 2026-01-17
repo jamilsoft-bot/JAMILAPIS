@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JamiApis.GoogleDrive", "JamiApis.GoogleDrive/JamiApis.GoogleDrive.csproj", "{87615724-7979-4811-9561-F6CCD1A7DAA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JamiApis.GoogleDrive.Demo", "JamiApis.GoogleDrive.Demo/JamiApis.GoogleDrive.Demo.csproj", "{526624DD-C60B-406F-AEFF-49E2038C30C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JamiApis.GoogleDrive.Tests", "JamiApis.GoogleDrive.Tests/JamiApis.GoogleDrive.Tests.csproj", "{C9B3D65C-12C6-4E70-A741-CB2435B3DDD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87615724-7979-4811-9561-F6CCD1A7DAA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87615724-7979-4811-9561-F6CCD1A7DAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87615724-7979-4811-9561-F6CCD1A7DAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87615724-7979-4811-9561-F6CCD1A7DAA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{526624DD-C60B-406F-AEFF-49E2038C30C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526624DD-C60B-406F-AEFF-49E2038C30C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526624DD-C60B-406F-AEFF-49E2038C30C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526624DD-C60B-406F-AEFF-49E2038C30C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B3D65C-12C6-4E70-A741-CB2435B3DDD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B3D65C-12C6-4E70-A741-CB2435B3DDD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B3D65C-12C6-4E70-A741-CB2435B3DDD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B3D65C-12C6-4E70-A741-CB2435B3DDD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
